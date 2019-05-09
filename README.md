@@ -1,1 +1,1 @@
-# HSdict
+# hyungstone-person-dictionary
